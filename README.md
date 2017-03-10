@@ -3,6 +3,7 @@
 ##Header 2
 Regular text sample
 
+#This is a sample. Hello World :)
 
 #About the Project
 First Entry on the description of my project
