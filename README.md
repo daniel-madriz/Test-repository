@@ -6,6 +6,7 @@ Regular text sample
 #This is a sample. Hello World :)
 
 #About the Project
+First Entry on the description of my project
 
 #Explain the Project
 
